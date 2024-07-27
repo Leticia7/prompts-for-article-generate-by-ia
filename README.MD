@@ -74,23 +74,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## CRIEI ESSE REPOSITÓRIO MAS IREI FAZER A ATIVIDADE NA PRÓXIMA SEMANA 
 
-## 👨‍💻 Expert
+## 👩‍💻 Expert
 
-<p>
-
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
 ---
 
